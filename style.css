@@ -63,7 +63,7 @@ nav {
   height: 100vh;
   margin: 150px 20px 0 20px;
 }
-.nolf {
+.introduction {
   padding: 0.5em 1em;
   margin: 2em 0;
   color: white;/*文字色*/
@@ -71,24 +71,6 @@ nav {
   border: solid 3px white;/*線*/
   border-radius: 10px;/*角の丸み*/
 }
-/*
-.guide {
-  display: flex;
-  width:auto;
-  margin: 0 0 0 0;
-}
-.guide_1 {
-  flex-shrink: 0;
-  padding: 80px;
-  height: 300px;
-  width: 25%;
-  margin: 10px 15px 0 15px;
-  background: blue;
-  position: relative;
-  border: solid 3px #6091d3;
-  border-radius: 10px;
-}
-*/
 footer {
   width: 100%;
   padding: 10px 0 10px;
