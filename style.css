@@ -23,15 +23,15 @@ body {
   margin: 0;
   padding: 0;
   color: white;
-  background: url(berta_hestias.png);
-  background-color: white;
+  background: url(FNH_world_map_2021.svg);
+  background-color: #ffffc7;
   font-family: "游ゴシック", sans-serif;
 }
 header {
   width: 100%;
   padding: 30px 4% 10px;
   position: fixed;
-  background-color: royalblue;
+  background-color: #b3b38d;
   top: 0;
   display: flex;
   align-items: center;
@@ -67,14 +67,14 @@ nav {
   padding: 0.5em 1em;
   margin: 2em 0;
   color: white;/*文字色*/
-  background: royalblue;
+  background: #b3b38d;
   border: solid 3px white;/*線*/
   border-radius: 10px;/*角の丸み*/
 }
 footer {
   width: 100%;
   padding: 10px 0 10px;
-  background-color: royalblue;
+  background-color: #b3b38d;
   position: fixed;
   bottom: 0;
   display: flex;
