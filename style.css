@@ -8,12 +8,12 @@ h1 {
 h2 { color: white !important }
 h3 { color: white !important } 
 @font-face {
-    font-family: "liene";
-    src: url("https://static.miraheze.org/umipediawiki/5/5f/Liene-Regular.ttf");  format('ttf');
+    font-family: "mark";
+    src: url("https://github.com/emyeuchi/soshirenmei/blob/main/mark_my_words.ttf");  format('ttf');
 }
 
-.Liene {
-    font-family: "liene";
+.mark {
+    font-family: "mark";
 }
 /* ヘッダー*/
 * {
