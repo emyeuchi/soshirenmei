@@ -9,7 +9,7 @@ h2 { color: white !important }
 h3 { color: white !important } 
 @font-face {
     font-family: "mark";
-    src: url("https://github.com/emyeuchi/soshirenmei/blob/main/mark_my_words.ttf");  format('ttf');
+    src: url("https://static.miraheze.org/soshirenmeiwiki/0/03/Mark_my_words.ttf");  format('ttf');
 }
 
 .mark {
