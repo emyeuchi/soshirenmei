@@ -83,6 +83,26 @@ nav {
 .overfooter {
   height: 10em;
 }
+.left-block {
+  float: left;
+  width: 50%; /* 要素の幅を50%に定義 */
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  color: white;/*文字色*/
+  background: #b3b38d;
+  border: solid 3px white;/*線*/
+  border-radius: 10px;/*角の丸み*/
+}
+.right-block {
+  float: right;
+  width: 50%; /* 要素の幅を50%に定義 */
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  color: white;/*文字色*/
+  background: #b3b38d;
+  border: solid 3px white;/*線*/
+  border-radius: 10px;/*角の丸み*/
+}
 footer {
   width: 100%;
   padding: 10px 0 10px;
