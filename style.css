@@ -11,9 +11,15 @@ h3 { color: white !important }
     font-family: "mark";
     src: url("https://static.miraheze.org/soshirenmeiwiki/0/03/Mark_my_words.ttf");  format('ttf');
 }
-
 .mark {
     font-family: "mark";
+}
+@font-face {
+    font-family: "kudou";
+    src: url("https://static.miraheze.org/soshirenmeiwiki/a/aa/KUDOU.TTF");  format('ttf');
+}
+.kudou {
+    font-family: "kudou";
 }
 /* ヘッダー*/
 * {
