@@ -71,6 +71,9 @@ nav {
   border: solid 3px white;/*線*/
   border-radius: 10px;/*角の丸み*/
 }
+.underheader {
+  height: 5em;
+}
 .overfooter {
   height: 10em;
 }
