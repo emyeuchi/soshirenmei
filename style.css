@@ -85,9 +85,9 @@ nav {
 }
 .left-block {
   float: left;
-  width: 50%; /* 要素の幅を50%に定義 */
+  width: 48%; /* 要素の幅を50%に定義 */
   padding: 0.5em 1em;
-  margin: 2em 0;
+  margin: 2em 2% 2em 0;
   color: white;/*文字色*/
   background: #b3b38d;
   border: solid 3px white;/*線*/
@@ -95,9 +95,9 @@ nav {
 }
 .right-block {
   float: right;
-  width: 50%; /* 要素の幅を50%に定義 */
+  width: 48%; /* 要素の幅を50%に定義 */
   padding: 0.5em 1em;
-  margin: 2em 0;
+  margin: 2em 0 2em 2%;
   color: white;/*文字色*/
   background: #b3b38d;
   border: solid 3px white;/*線*/
