@@ -83,6 +83,9 @@ nav {
 .overfooter {
   height: 10em;
 }
+.around-box {
+  overflow:hidden
+}
 .left-block {
   float: left;
   width: 48%; /* 要素の幅を50%に定義 */
