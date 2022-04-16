@@ -116,6 +116,14 @@ nav {
 .rightpic {
   float: right;
 }
+table.info {
+  padding: 0.5em 1em;
+  margin: 2% 0;
+  color: white;/*文字色*/
+  background: #b3b38d;
+  border: solid 3px white;/*線*/
+  border-radius: 10px;/*角の丸み*/
+}
 ul.nation {
   list-style: none;
   margin: 0;
