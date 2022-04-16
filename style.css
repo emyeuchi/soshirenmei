@@ -128,6 +128,12 @@ li.nation {
   margin: 0;
   font-size: 20px;
 }
+ul.pic {
+  display: flex;
+}
+li.pic {
+  list-style: none;
+}
 footer {
   width: 100%;
   height:10%;
