@@ -114,6 +114,7 @@ table.info {
   background: #b3b38d;
   border: solid 3px white;/*線*/
   border-radius: 10px;/*角の丸み*/
+  width:100%;
 }
 th.info {
   width:30%;
