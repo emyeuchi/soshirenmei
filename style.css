@@ -107,15 +107,6 @@ nav {
   border: solid 3px white;/*線*/
   border-radius: 10px;/*角の丸み*/
 }
-.aroundpic {
-  overflow:hidden
-}
-.leftpic {
-  float: left;
-}
-.rightpic {
-  float: right;
-}
 table.info {
   padding: 0.5em 1em;
   margin: 2% 0;
